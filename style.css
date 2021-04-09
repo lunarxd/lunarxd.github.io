@@ -2,20 +2,11 @@
 
 @keyframes epicText {
     0% {
-        transform: translate(-50%,-50%) rotate(-20deg);
-    }
-    25% {
-        transform: translate(-50%,-50%) rotate(0deg);
-    }
-    50% {
-        transform: translate(-50%,-50%) rotate(15deg);
-    }
-    75% {
         transform: translate(-50%,-50%) rotate(0deg);
     }
     100% {
         background-position: 200% center;
-        transform: translate(-50%,-50%) rotate(-20deg);
+        transform: translate(-50%,-50%) rotate(360deg);
     }
 }
 
@@ -45,7 +36,7 @@ maintext {
     text-fill-color: transparent;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: epicText 4s linear infinite;
+    animation: epicText 0.1s linear infinite;
     color: inherit;
 }
 
