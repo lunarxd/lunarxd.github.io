@@ -1,0 +1,31 @@
+body {
+	font-family: monospace !important;
+	background-color: #000 !important;
+	color: #fff !important;
+}
+a {
+	text-decoration: none;
+	color: gray !important;
+}
+a:hover {
+	transition: 0.4s !important;
+	color: gray !important;
+}
+.ascii {
+	color: gray !important;
+	top: 50%;
+}
+span::before {
+	content: '\A';
+	white-space: pre;
+}
+#center {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+}
