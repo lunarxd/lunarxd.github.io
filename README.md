@@ -1,5 +1,5 @@
 # lunarxd.github.io
-sum shit that acts weird on discord
+sum random shit for discord trolling
 <br>lunar#3711<br>
 
 
