@@ -1,7 +1,6 @@
 # lunarxd.github.io
-sum shit that crashes discord
-
-
+sum shit that acts weird on discord
+<br>lunar#3711<br>
 
 
 
