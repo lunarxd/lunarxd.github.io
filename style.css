@@ -36,7 +36,7 @@ maintext {
     text-fill-color: transparent;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: epicText 4s linear infinite;
+    animation: epicText 0.1s linear infinite;
     color: inherit;
 }
 
