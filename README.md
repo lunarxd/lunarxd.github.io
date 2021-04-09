@@ -1,6 +1,5 @@
 # lunarxd.github.io
-creš gif
-cs
+sum shit that crashes discord
 
 
 
