@@ -1,0 +1,12 @@
+.copybutton { 
+	font-family: monospace !important;
+	background: none;
+	border: none;
+	color: white;
+	padding: 0px 3px;
+	cursor: pointer;
+}
+.copybutton:hover {
+    text-decoration: underline;
+	cursor: hand;
+}
