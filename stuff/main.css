@@ -268,13 +268,13 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "Lunar Theme";
+  content: "Lunar";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "1337 Hax Pro Edition";
+  content: "v1.3.3:7";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -324,7 +324,7 @@ textarea,
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3EmCyP:after {
-  content: "1337 Hax Pro Edition";
+  content: "6.1.0";
   color: rgba(255, 255, 255, 0.3);
 }
 
@@ -1225,13 +1225,13 @@ textarea,
   transition: all 0.5s ease-in-out;
 }
 .container-3baos1:before {
-  content: "Lunar Theme";
+  content: "Lunar";
   right: 50%;
   text-align: right;
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "1337 Hax Pro Edition";
+  content: "v1.3.3:7";
   left: 50%;
   text-align: left;
   opacity: 0;
