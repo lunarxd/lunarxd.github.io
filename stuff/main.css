@@ -27,7 +27,7 @@
   --avatar-roundness: 50%;
   --background-shading: 100%;
   --background-overlay: rgba(0, 0, 0, .6);
-  --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+  --background-image: url(https://files.catbox.moe/n3or41.png);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -274,7 +274,7 @@ textarea,
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v1.3.3:7";
+  content: "v1.3.3.7";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -1231,7 +1231,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v1.3.3:7";
+  content: "v1.3.3.7";
   left: 50%;
   text-align: left;
   opacity: 0;
